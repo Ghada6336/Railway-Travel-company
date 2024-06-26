@@ -1,6 +1,12 @@
-# railway_tableau
-Railway Travel company 
-Storyboard link : https://public.tableau.com/views/ProjectRailwayTravelCompany_17112398797790/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
+# Railway Travel company 
+
+[Storyboard link](https://public.tableau.com/views/ProjectRailwayTravelCompany_17112398797790/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link )
+
+##  Used Tools
+
+Data Visualization - Tableau 
+
+## Results
 
 This Dashboard discusses the top 10 countries in terms of passenger volume and the ease of doing business in the railway industry, as well as their economic significance. It highlights that these 10 countries are responsible for over 60% of the distance traveled by passengers worldwide and contain over 90% of the world's rails.
 
